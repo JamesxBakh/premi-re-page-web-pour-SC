@@ -1,0 +1,2 @@
+# premi-re-page-web-pour-SC
+Votre candidature a été retenue pour la dernière étape, nous vous invitons donc à un entretien. Merci de bien vouloir choisir un créneau de rendez-vous à votre convenance sur le portail de recrutement. Lors de votre venue, vous devez apporter sur une clé USB, un mini-site de 4 pages HTML/CSS reliées entre elles que vous aurez vous-même (attention ce point est très important) élaboré, dans lequel vous pouvez traiter le thème de votre choix, soyez créatifs !
